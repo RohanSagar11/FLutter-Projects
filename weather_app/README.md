@@ -32,7 +32,7 @@
     </section>
     <section class="screenshots">
         <div class="screenshot">
-            <img src="https://photos.app.goo.gl/8VJp8sS1Qg3eC4Fr7" alt ="abc">
+            <img src="Screenshot_20231204_172440.jpg" alt ="abc">
             <p>Caption for Screenshot 1</p>
         </div>
         <div class="screenshot">
