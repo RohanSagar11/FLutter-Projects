@@ -32,19 +32,18 @@
   </ol>
 
   <h2>Screenshots</h2>
-
-  <img src="/path/to/screenshot1.png" alt="Screenshot 1">
-  <p><em>Caption for Screenshot 1</em></p>
-
-  <img src="/path/to/screenshot2.png" alt="Screenshot 2">
-  <p><em>Caption for Screenshot 2</em></p>
+<div>
+  <img src="WhatsApp Image 2023-12-05 at 4.39.13 PM.jpeg" alt="Screenshot 1" height = "40%" width = "30%">
+  <img src="WhatsApp Image 2023-12-05 at 4.39.14 PM (1).jpeg" alt="Screenshot 2" height = "40%" width = "30%">
+  <img src="WhatsApp Image 2023-12-05 at 4.39.14 PM.jpeg" alt="Screenshot 2" height = "40%" width = "30%">
+  </div>
 
   <h2>Getting Started with Development</h2>
 
   <ol>
     <li>Clone the repository:</li>
     <code>
-      git clone https://github.com/yourusername/your-repo.git
+      git clone https://github.com/RohanSagar11/Flutter-Projects/tree/main/shopping_app
       <br>cd your-repo
     </code>
     <li>Install dependencies:</li>
@@ -66,7 +65,7 @@
 
   <h2>Feedback and Support</h2>
 
-  <p>If you encounter any issues or have suggestions for improvement, please <a href="https://github.com/yourusername/your-repo/issues">open an issue</a> or contact our support team at <a href="mailto:support@yourapp.com">support@yourapp.com</a>.</p>
+  <p>If you encounter any issues or have suggestions for improvement, please <a href="https://github.com/RohanSagar11/Flutter-Projects/issues">open an issue</a> or contact our support team at <a href="mailto:rohansagar005@gmail.com"> Support </a>.</p>
 
   <p>Happy Shopping!</p>
 
